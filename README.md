@@ -34,5 +34,5 @@ We evaluated the model's effectiveness through a confusion matrix in Google Cola
 
 
 ### Dashboard
-![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.jpg)
+![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.png)
 
