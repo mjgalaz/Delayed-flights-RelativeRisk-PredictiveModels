@@ -33,5 +33,6 @@ We evaluated the model's effectiveness through a confusion matrix in Google Cola
 - These conclusions highlight both the successes achieved in improving model performance and the ongoing opportunities for refinement and enhancement in future iterations of the analysis.
 
 
-
+### Dashboard
+![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.jpg)
 
