@@ -25,14 +25,12 @@ We evaluated the model's effectiveness through a confusion matrix in Google Cola
 
 3. Results Presentation: In addition to the analysis and modeling, findings were communicated through the creation of a  report and an dashboard in Power BI.
 
+### Dashboard
+![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.png)
+
 ### Conclutions
 
 - The utilization of class_weight in the tree models resulted in a significant improvement in performance, with the latter achieving a 34.9% increase in F1 Score compared to the initial manual model.
 - Despite the improved F1 Score, it's important to note that there is still room for improvement in the metrics.
 - One potential avenue for further improvement could be the definition of new predictor variables and reassembling models to account for these variables.
 - These conclusions highlight both the successes achieved in improving model performance and the ongoing opportunities for refinement and enhancement in future iterations of the analysis.
-
-
-### Dashboard
-![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.png)
-
