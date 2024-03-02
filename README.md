@@ -26,7 +26,7 @@ We evaluated the model's effectiveness through a confusion matrix in Google Cola
 3. Results Presentation: In addition to the analysis and modeling, findings were communicated through the creation of a  report and an dashboard in Power BI.
 
 ### Dashboard
-![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard.png)
+![](https://raw.githubusercontent.com/mjgalaz/Delayed-flights-RelativeRisk-PredictiveModels/main/dashboard_models.png)
 
 ### Conclutions
 
